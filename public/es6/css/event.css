@@ -1,0 +1,28 @@
+@charset "UTF-8";
+
+body {
+	padding: 0;
+	margin: 0;
+}
+
+#wrapper {
+	width: 400px;
+	height: 400px;
+	background-color: yellow;
+}
+
+#inner {
+	width: 200px;
+	height: 200px;
+	background-color: blue;
+	top: 100px;
+	left: 100px; /*상우하좌*/
+}
+
+btn {
+	width: 100px;
+	height: 100px;
+	background-color: gray;
+	top: 100px;
+	left: 100px;
+}
